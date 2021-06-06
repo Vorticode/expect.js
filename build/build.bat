@@ -1,0 +1,1 @@
+node build ../src/expect.js ../expect.js
