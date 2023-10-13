@@ -4,6 +4,8 @@
 
 Execute any `@expect` tags in DocComments and report any errors.  Requires Deno to run.
 
+
+
 ```javascript
 // example.js:
 
@@ -24,7 +26,7 @@ function add(a, b) {
 Got 13 but expected 14 in @expect at examples/example.js:11:1.
 ```
 
-
+![image-20210521132842992](images/image-20210521132842992.png)
 
 ## Integration with IntelliJ IDEs.
 
