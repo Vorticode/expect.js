@@ -2,7 +2,7 @@
 
 
 
-Execute any `@expect` tags in DocComments and report any errors.  Requires Deno to run.
+Execute any `@expect` tags in DocComments and report any errors.  Requires [Deno](https://deno.com/) to run.
 
 
 
@@ -45,5 +45,5 @@ You should then see real-time errors in IntelliJ as you type:
 
 ## Building
 
-Run `build.bat` from within the `build` folder.  Requires Node.js to build.
+If you want to modify expect.js itself and build a new version, run `build.bat` from within the `build` folder.  Requires Node.js to build.
 
